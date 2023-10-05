@@ -23,6 +23,12 @@ The Merchant Vessel Safety and Performance Enhancement with Machine Learning pro
 
 The Merchant Vessel Safety and Performance Enhancement project harnesses advanced machine learning techniques to enhance the safety, operational efficiency, and sustainability of merchant vessels. It accomplishes this by continuously analyzing real-time data from sensors and ship systems and delivering actionable insights to vessel operators.
 
+
+<img width="404" alt="Screenshot 2023-10-05 at 21 20 03" src="https://github.com/sagprr/Optimizing_Merchant_Vessels/assets/113618122/d0f6d3db-4706-4759-a3d4-45fa2188ef82">
+<img width="933" alt="Screenshot 2023-10-05 at 21 20 51" src="https://github.com/sagprr/Optimizing_Merchant_Vessels/assets/113618122/06e26c95-916f-44b2-b6ed-61b28f5245b2">
+
+
+
 ## Data Collection
 
 - **Real-time Data Sources:** The project relies on real-time data from sensors and ship systems, encompassing engine performance, weather conditions, cargo load, crew activity, and more.
